@@ -75,7 +75,7 @@ export default function Principal() {
         </SelectTipo>
         <CategoriaView horizontal={true} showsHorizontalScrollIndicator={false}>
           {categorias.map(categoria => (
-            <CategoriaItem key={categoria.id} foto={categoria.img_url} texto={categoria.nome} />
+            <CategoriaItem key={categoria.id} foto={categoria.img_url} texto={categoria.nome} /> 
           ))}
         </CategoriaView>
         <BannerView horizontal={true} showsHorizontalScrollIndicator={false}>
