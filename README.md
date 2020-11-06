@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    Ptojeto criado no curso de react native da digital innovation one
+    Projeto criado no curso de react native da digital innovation one
 </p>
 
 
