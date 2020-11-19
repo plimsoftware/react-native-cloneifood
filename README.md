@@ -3,10 +3,8 @@
     IFOOD CLONE 
 </h1>
 
-<p align="center">
-    Projeto criado no curso de react native da digital innovation one
-</p>
-
+Este projeto foi elaborado no decorrer do Bootcamp React Native Developer da [Digital Innovation One](https://digitalinnovation.one/), 
+onde desenvolvemos a UI do aplicativo iFood, com a listagem de restaurantes, carrousel da banners e categorias. Utilizando React Native, os Hooks do React para controle de estado, React Navigation para roteamento de telas na aplicação e integrando a uma API estática com apenas um JSON para listagem dos restaurantes no app e muito mais!
 
 
 ## EndPoints
